@@ -1,0 +1,5 @@
+
+Complex Examples Using PowerShell:
+Get-ChildItem -recurse | where {$_.name -eq "Security.evtx"} | foreach { cd $_.DirectoryName; pwd; & 'C:\Program Files (x86)\Log Parser 2.2\LogParser.exe' -stats:OFF -i:EVT -q:ON "SELECT * FROM 'Security.evtx' WHERE EventID = '4624'" }
+
+Get-ChildItem -recurse | where {$_.name -eq "Security.evtx"} | foreach { cd $_.DirectoryName; pwd; & 'C:\Program Files (x86)\Log Parser 2.2\LogParser.exe' -stats:ON -i:EVT "SELECT TimeGenerated AS Date, EXTRACT_TOKEN(Strings, 5, '|') as Username, EXTRACT_TOKEN(Strings, 6, '|') as Domain, EXTRACT_TOKEN(Strings, 8, '|') as LogonType,EXTRACT_TOKEN(strings, 9, '|') AS AuthPackage, EXTRACT_TOKEN(Strings, 11, '|') AS Workstation, EXTRACT_TOKEN(Strings, 17, '|') AS ProcessName, EXTRACT_TOKEN(Strings, 18, '|') AS SourceIP FROM 'Security.evtx' WHERE EventID = 4624 AND Username NOT IN ('SYSTEM'; 'ANONYMOUS LOGON'; 'LOCAL SERVICE'; 'NETWORK SERVICE') AND Domain NOT IN ('NT AUTHORITY') AND SourceIP = 'x.x.x.x'"; cd ..; }
