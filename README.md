@@ -24,3 +24,6 @@ Journal
 
 Research gate
 - https://www.researchgate.net/
+
+Sans posters
+- https://www.sans.org/posters/?focus-area=digital-forensics
