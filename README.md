@@ -27,3 +27,12 @@ Research gate
 
 Sans posters
 - https://www.sans.org/posters/?focus-area=digital-forensics
+
+# Podcasts
+
+Digital Forensic Survival Podcast
+- https://podcasts.google.com/feed/aHR0cHM6Ly9kaWdpdGFsZm9yZW5zaWNzdXJ2aXZhbHBvZGNhc3QubGlic3luLmNvbS9yc3M?sa=X&ved=0CAMQ4aUDahcKEwjA5baJ0e3sAhUAAAAAHQAAAAAQAg&hl=sv
+- https://digitalforensicsurvivalpodcast.com/podcast/
+
+Darknet Diaries
+- https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vZGFya25ldGRpYXJpZXM?sa=X&ved=0CAMQ27cFahcKEwiww-OHjvXsAhUAAAAAHQAAAAAQHA
