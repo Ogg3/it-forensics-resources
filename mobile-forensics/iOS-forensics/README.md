@@ -6,3 +6,6 @@ iOS health data
 
 Querys
 - https://github.com/abrignoni/DFIR-SQL-Query-Repo/tree/master/iOS
+
+Emulator
+- https://learn.microsoft.com/en-us/xamarin/tools/ios-simulator/deploy?source=recommendations
