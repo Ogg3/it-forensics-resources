@@ -1,0 +1,1 @@
+- https://blog.passware.com/a-deep-dive-into-apple-keychain-decryption/
