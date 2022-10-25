@@ -9,3 +9,6 @@ Querys
 
 Emulator
 - https://learn.microsoft.com/en-us/xamarin/tools/ios-simulator/deploy?source=recommendations
+
+APOLLO
+- http://www.mac4n6.com/blog/2018/12/23/on-the-tenth-day-of-apollo-my-true-love-gave-to-me-an-oddly-detailed-map-of-my-recent-travels-ios-location-analysis
