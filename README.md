@@ -28,6 +28,13 @@ Research gate
 Sans posters
 - https://www.sans.org/posters/?focus-area=digital-forensics
 
+Testing
+- https://help.perfecto.io/perfecto-kb/content/kb/home-kb.htm
+- https://thebinaryhick.blog/public_images/
+
+DataSheets
+- https://www.mandiant.com/resources/datasheets
+
 # Podcasts
 
 Digital Forensic Survival Podcast
@@ -36,3 +43,4 @@ Digital Forensic Survival Podcast
 
 Darknet Diaries
 - https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vZGFya25ldGRpYXJpZXM?sa=X&ved=0CAMQ27cFahcKEwiww-OHjvXsAhUAAAAAHQAAAAAQHA
+
