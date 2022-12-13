@@ -1,0 +1,2 @@
+Onion adress
+- (?:https?://)?(?:www)?(\S*?\.onion)\b
