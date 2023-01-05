@@ -5,3 +5,6 @@ Querys
 
 Anti forensics
 - https://www.researchgate.net/publication/221421141_A_Novel_Anti-forensics_Technique_for_the_Android_OS
+
+Android anti-forensics through a local paradigm
+- https://www.sciencedirect.com/science/article/pii/S1742287610000381
