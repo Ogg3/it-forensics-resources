@@ -4,3 +4,6 @@ https://github.com/WithSecureLabs/chainsaw
 
 Querys
 - https://github.com/abrignoni/DFIR-SQL-Query-Repo/tree/master/Windows
+
+Tool analysis
+- https://jpcertcc.github.io/ToolAnalysisResultSheet/
