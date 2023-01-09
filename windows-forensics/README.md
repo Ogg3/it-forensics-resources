@@ -7,3 +7,6 @@ Querys
 
 Tool analysis
 - https://jpcertcc.github.io/ToolAnalysisResultSheet/
+
+DFIR resources
+- https://github.com/abdulshareef/DFIR-Resources
