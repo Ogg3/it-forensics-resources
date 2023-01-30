@@ -12,3 +12,6 @@ Midi
 
 The Importance of Data that Doesn’t Exist – Part Two (Missing Data Sources)
 - https://ediscoverychannel.com/2023/01/23/the-importance-of-data-that-doesnt-exist-part-two-missing-data-sources/
+
+PCAP analysis report - Nitroba University
+- https://jrychang0621.blogspot.com/2023/01/pcap-analysis-report-nitroba-university.html
