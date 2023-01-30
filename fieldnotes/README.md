@@ -9,3 +9,6 @@ Unwrapping Ursnifs Gifts
 
 Midi
 - https://www.hackerfactor.com/blog/index.php?/archives/980-An-Itty-Midi-Mystery.html
+
+The Importance of Data that Doesn’t Exist – Part Two (Missing Data Sources)
+- https://ediscoverychannel.com/2023/01/23/the-importance-of-data-that-doesnt-exist-part-two-missing-data-sources/
