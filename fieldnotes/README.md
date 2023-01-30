@@ -6,3 +6,6 @@ SysInternals Case Write Up
 
 Unwrapping Ursnifs Gifts
 - https://thedfirreport.com/2023/01/09/unwrapping-ursnifs-gifts/
+
+Midi
+- https://www.hackerfactor.com/blog/index.php?/archives/980-An-Itty-Midi-Mystery.html
