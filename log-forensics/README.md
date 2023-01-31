@@ -9,6 +9,3 @@ Log Parser 2.2
 
 Windows event logparser
 - https://gist.github.com/exp0se/1bae653b790cf5571d20
-
-Log Parser Lizard GUI
-- https://www.lizard-labs.com/log_parser_lizard.aspx
