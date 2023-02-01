@@ -3,3 +3,6 @@ List of filesystem headers
 
 INDX timestamps
 - https://thinkdfir.com/2023/01/13/timestamps-in-indx-entries/
+
+Filesystems used in mobilephones
+- https://www.researchgate.net/publication/360353993_2022_Book_Mobile_Forensics_-The_File_Format_Handbook
