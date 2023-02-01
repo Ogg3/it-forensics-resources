@@ -43,6 +43,7 @@ DataSheets
 - https://theforensicscooter.com/
 - https://www.doubleblak.com/blogs.php
 - http://www.mac4n6.com/
+- https://thebinaryhick.blog/
 
 # Podcasts
 
