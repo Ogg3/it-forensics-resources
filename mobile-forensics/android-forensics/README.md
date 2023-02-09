@@ -8,3 +8,6 @@ Anti forensics
 
 Android anti-forensics through a local paradigm
 - https://www.sciencedirect.com/science/article/pii/S1742287610000381
+
+Emulate apps and appdata
+- https://abrignoni.blogspot.com/2017/08/viewing-extracted-android-app-data.html
