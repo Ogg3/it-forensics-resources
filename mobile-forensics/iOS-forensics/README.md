@@ -15,3 +15,6 @@ APOLLO
 
 Built in identifyers
 - https://support.apple.com/sv-se/guide/deployment/depece748c41/web
+
+Acquisition & Analysis for Apple Devices
+- https://www.linkedin.com/posts/aditya-pratap-3b7b55192_apple-forensics-activity-7029511840447574016-kbvw/?utm_source=share&utm_medium=member_android
