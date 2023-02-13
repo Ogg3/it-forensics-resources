@@ -15,3 +15,6 @@ The Importance of Data that Doesn’t Exist – Part Two (Missing Data Sources)
 
 PCAP analysis report - Nitroba University
 - https://jrychang0621.blogspot.com/2023/01/pcap-analysis-report-nitroba-university.html
+
+Collect, Exfiltrate, Sleep, Repeat
+- https://thedfirreport.com/2023/02/06/collect-exfiltrate-sleep-repeat/
