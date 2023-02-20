@@ -11,3 +11,5 @@ Android anti-forensics through a local paradigm
 
 Emulate apps and appdata
 - https://abrignoni.blogspot.com/2017/08/viewing-extracted-android-app-data.html
+
+- https://github.com/RealityNet/Android-Forensics-References
