@@ -6,3 +6,6 @@ Analyzing firmware image using Binwalk
 
 Short Tutorial: Firmware Analysis Tool Binwalk [Updated 2023]
 - https://allabouttesting.org/short-tutorial-firmware-analysis-tool-binwalk/
+
+USB Forensics 101
+- https://infosecwriteups.com/usb-forensics-101-444faf737c4c
