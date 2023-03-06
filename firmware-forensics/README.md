@@ -9,3 +9,6 @@ Short Tutorial: Firmware Analysis Tool Binwalk [Updated 2023]
 
 USB Forensics 101
 - https://infosecwriteups.com/usb-forensics-101-444faf737c4c
+
+HARDWARE INVESTIGATION OF WIRELESS KEYLOGGERS
+- https://www.synacktiv.com/en/publications/hardware-investigation-of-wireless-keyloggers.html
