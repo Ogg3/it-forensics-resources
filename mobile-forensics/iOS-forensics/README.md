@@ -21,3 +21,6 @@ Acquisition & Analysis for Apple Devices
 
 POSIX vs Extended Attribut: Vilka tidsstämplar ska du använda?
 - https://sumuri.com/posix-vs-extended-attribute-which-timestamps-should-you-use/
+
+Analysing Safari browser history
+- https://www.foxtonforensics.com/blog/post/analysing-safari-browser-history
