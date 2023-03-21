@@ -10,3 +10,6 @@ Tool analysis
 
 DFIR resources
 - https://github.com/abdulshareef/DFIR-Resources
+
+Examine the Cache, Cookies, and History Recorded in Web Browsers
+- https://belcyber.medium.com/examine-the-cache-cookies-and-history-recorded-in-web-browsers-670db69bbef7
