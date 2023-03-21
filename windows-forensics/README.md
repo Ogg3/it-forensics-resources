@@ -13,3 +13,6 @@ DFIR resources
 
 Examine the Cache, Cookies, and History Recorded in Web Browsers
 - https://belcyber.medium.com/examine-the-cache-cookies-and-history-recorded-in-web-browsers-670db69bbef7
+
+Magnet Virtual Summit 2023 CTF - Windows Server
+- https://www.stark4n6.com/2023/03/magnet-virtual-summit-2023-ctf-windows_8.html
