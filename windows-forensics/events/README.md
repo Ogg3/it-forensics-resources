@@ -5,3 +5,6 @@ https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l-
 
 Event resources
 - https://github.com/nasbench/EVTX-ETW-Resources
+
+Find Threats in Event Logs with Hayabusa
+- https://blog.ecapuano.com/p/find-threats-in-event-logs-with-hayabusa
