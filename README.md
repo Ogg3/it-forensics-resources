@@ -49,6 +49,7 @@ Digital Investigation & Cyber Security Solutions
 - https://thebinaryhick.blog/
 - https://thedfirreport.com/
 - https://forensafe.com/blog.html
+- https://blog.elcomsoft.com/
 
 # Podcasts
 
