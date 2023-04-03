@@ -48,6 +48,7 @@ Digital Investigation & Cyber Security Solutions
 - http://www.mac4n6.com/
 - https://thebinaryhick.blog/
 - https://thedfirreport.com/
+- https://forensafe.com/blog.html
 
 # Podcasts
 
