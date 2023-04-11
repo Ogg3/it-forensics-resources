@@ -17,3 +17,6 @@ Android Forensics References
 
 FCM Queued Messages on Android
 - https://www.cclsolutionsgroup.com/post/fcm-queued-messages-on-android
+
+Wipeout! Part Deux – Determining How an Android Was Setup
+- https://thebinaryhick.blog/2023/04/02/wipeout-part-deux-determining-how-an-android-was-setup/
