@@ -21,3 +21,6 @@ Collect, Exfiltrate, Sleep, Repeat
 
 Mason TCTF - Writeups
 - https://jrychang0621.blogspot.com/2023/03/mason-tctf-writeups.html
+
+Malicious ISO File Leads to Domain Wide Ransomware
+- https://thedfirreport.com/2023/04/03/malicious-iso-file-leads-to-domain-wide-ransomware/
