@@ -15,3 +15,6 @@ Email Analysis using open-source tools: Letsdefend challenge.
 
 Remote Access Software - Forensics
 - https://vikas-singh.notion.site/vikas-singh/Remote-Access-Software-Forensics-3e38d9a66ca0414ca9c882ad67f4f71b
+
+Intro to forensics in the cloud: A container was compromised. What’s next?
+- https://www.wiz.io/blog/intro-to-forensics-in-the-cloud-a-container-was-compromised-whats-next
