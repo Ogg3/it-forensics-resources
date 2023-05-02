@@ -19,3 +19,4 @@ Magnet Virtual Summit 2023 CTF - Windows Server
 
 Search Index Database Reporter
 - https://github.com/strozfriedberg/sidr
+- https://www.aon.com/cyber-solutions/aon_cyber_labs/windows-search-index-the-forensic-artifact-youve-been-searching-for/
