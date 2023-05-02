@@ -8,3 +8,6 @@ Analyzing Network Logs
 
 Network Forensic — SMUX Protocol
 - https://medium.com/mii-cybersec/network-forensic-smux-protocol-8d1bc56571d6
+
+INCIDENT RESPONSE RAPID TRIAGE: A DFIR WARRIOR’S GUIDE (PART 3 – NETWORK ANALYSIS AND TOOLING)
+- https://www.trustedsec.com/blog/incident-response-rapid-triage-a-dfir-warriors-guide-part-3-network-analysis-and-tooling/
