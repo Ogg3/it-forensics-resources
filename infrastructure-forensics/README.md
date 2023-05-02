@@ -18,3 +18,6 @@ Remote Access Software - Forensics
 
 Intro to forensics in the cloud: A container was compromised. What’s next?
 - https://www.wiz.io/blog/intro-to-forensics-in-the-cloud-a-container-was-compromised-whats-next
+
+CyberDefenders: AzurePot
+- https://beginninghacking.net/2023/04/29/cyberdefenders-azurepot/
