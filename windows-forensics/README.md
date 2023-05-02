@@ -16,3 +16,6 @@ Examine the Cache, Cookies, and History Recorded in Web Browsers
 
 Magnet Virtual Summit 2023 CTF - Windows Server
 - https://www.stark4n6.com/2023/03/magnet-virtual-summit-2023-ctf-windows_8.html
+
+Search Index Database Reporter
+- https://github.com/strozfriedberg/sidr
