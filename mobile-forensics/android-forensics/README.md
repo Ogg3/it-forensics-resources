@@ -20,3 +20,6 @@ FCM Queued Messages on Android
 
 Wipeout! Part Deux – Determining How an Android Was Setup
 - https://thebinaryhick.blog/2023/04/02/wipeout-part-deux-determining-how-an-android-was-setup/
+
+Forensic Analysis of Jami for Android, a Peer-to-Peer Messaging Application
+- https://www.dflim.com/blog/
