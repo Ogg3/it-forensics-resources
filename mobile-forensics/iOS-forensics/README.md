@@ -24,3 +24,6 @@ POSIX vs Extended Attribut: Vilka tidsstämplar ska du använda?
 
 Analysing Safari browser history
 - https://www.foxtonforensics.com/blog/post/analysing-safari-browser-history
+
+What's brewing with IPAs - Working with IPA files for Forensic Examiners
+- https://www.hexordia.com/blog-1-1/brewing-with-ipas
