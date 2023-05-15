@@ -21,3 +21,6 @@ Intro to forensics in the cloud: A container was compromised. What’s next?
 
 CyberDefenders: AzurePot
 - https://beginninghacking.net/2023/04/29/cyberdefenders-azurepot/
+
+TOP 6 DIGITAL FORENSIC INVESTIGATION TECHNIQUES FOR EFFORTLESS INVESTIGATION
+- https://www.mailxaminer.com/blog/digital-forensic-investigation-techniques/
