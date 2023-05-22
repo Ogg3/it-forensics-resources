@@ -8,3 +8,6 @@ Event resources
 
 Find Threats in Event Logs with Hayabusa
 - https://blog.ecapuano.com/p/find-threats-in-event-logs-with-hayabusa
+
+Windows Event Analysis: Unlocking the Hidden Insights in Event Logs
+- https://systemweakness.com/windows-event-analysis-unlocking-the-hidden-insights-in-event-logs-a41a763b2141
