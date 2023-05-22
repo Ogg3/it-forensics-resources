@@ -24,3 +24,6 @@ CyberDefenders: AzurePot
 
 TOP 6 DIGITAL FORENSIC INVESTIGATION TECHNIQUES FOR EFFORTLESS INVESTIGATION
 - https://www.mailxaminer.com/blog/digital-forensic-investigation-techniques/
+
+GUIDE ON APPLE MAIL FORENSICS: DETAILED ANALYSIS
+- https://www.mailxaminer.com/blog/apple-mail-forensics/
