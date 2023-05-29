@@ -27,3 +27,6 @@ TOP 6 DIGITAL FORENSIC INVESTIGATION TECHNIQUES FOR EFFORTLESS INVESTIGATION
 
 GUIDE ON APPLE MAIL FORENSICS: DETAILED ANALYSIS
 - https://www.mailxaminer.com/blog/apple-mail-forensics/
+
+Is Cloud Forensics just Log Analysis? Kind Of.
+- https://www.cadosecurity.com/is-cloud-forensics-just-log-analysis-kind-of/
