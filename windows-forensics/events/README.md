@@ -11,3 +11,6 @@ Find Threats in Event Logs with Hayabusa
 
 Windows Event Analysis: Unlocking the Hidden Insights in Event Logs
 - https://systemweakness.com/windows-event-analysis-unlocking-the-hidden-insights-in-event-logs-a41a763b2141
+
+EventLog Analysis
+- https://amr-git-dot.github.io/forensic%20investigation/EventLog_Analysis/
