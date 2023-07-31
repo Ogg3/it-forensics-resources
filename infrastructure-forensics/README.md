@@ -30,3 +30,6 @@ GUIDE ON APPLE MAIL FORENSICS: DETAILED ANALYSIS
 
 Is Cloud Forensics just Log Analysis? Kind Of.
 - https://www.cadosecurity.com/is-cloud-forensics-just-log-analysis-kind-of/
+
+EDR Log Investigation
+- https://amr-git-dot.github.io/forensic%20investigation/EDR_log_investigation/
