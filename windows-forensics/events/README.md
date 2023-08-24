@@ -14,3 +14,6 @@ Windows Event Analysis: Unlocking the Hidden Insights in Event Logs
 
 EventLog Analysis
 - https://amr-git-dot.github.io/forensic%20investigation/EventLog_Analysis/
+
+Deep Dive Into Windows Diagnostic Data & Telemetry (EventTranscript.db) - PART 1
+- https://stuxnet999.github.io/2023/08/15/Deep-dive-into-windows-diagnostic-data.html
