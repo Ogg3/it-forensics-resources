@@ -36,3 +36,6 @@ EDR Log Investigation
 
 Gone Phishing: An Analysis of a Targeted User Attack
 - https://www.huntress.com/blog/gone-phishing-an-analysis-of-a-targeted-user-attack
+
+Hope for the Best, Prepare for the Worst: How to prepare for cloud DFIR
+- https://www.sans.org/blog/hope-for-the-best-prepare-for-the-worst-how-to-prepare-for-cloud-dfir/
