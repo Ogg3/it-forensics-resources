@@ -33,3 +33,6 @@ Is Cloud Forensics just Log Analysis? Kind Of.
 
 EDR Log Investigation
 - https://amr-git-dot.github.io/forensic%20investigation/EDR_log_investigation/
+
+Gone Phishing: An Analysis of a Targeted User Attack
+- https://www.huntress.com/blog/gone-phishing-an-analysis-of-a-targeted-user-attack
