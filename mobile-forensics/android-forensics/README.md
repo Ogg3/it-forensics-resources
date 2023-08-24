@@ -23,3 +23,6 @@ Wipeout! Part Deux – Determining How an Android Was Setup
 
 Forensic Analysis of Jami for Android, a Peer-to-Peer Messaging Application
 - https://www.dflim.com/blog/
+
+Android & AirTags (Part II)
+- https://thebinaryhick.blog/2023/08/13/android-airtags-part-ii/
