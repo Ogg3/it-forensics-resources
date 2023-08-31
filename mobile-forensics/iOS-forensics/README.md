@@ -27,3 +27,6 @@ Analysing Safari browser history
 
 What's brewing with IPAs - Working with IPA files for Forensic Examiners
 - https://www.hexordia.com/blog-1-1/brewing-with-ipas
+
+TOOL: Hexordia IO+S Toolkit v1.0.0
+- https://medium.com/@randomdent/tool-hexordia-io-s-toolkit-v1-0-0-a3c565b9c562
