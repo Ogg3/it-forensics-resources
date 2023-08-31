@@ -4,3 +4,6 @@ Practical Linux forensics
 
 Timestamps
 - https://www.trustedsec.com/blog/linux-history-file-timestamps/
+
+Linux DFIR Analysis: Attacker Kali Linux Case By Dr. Ali Hadi
+- https://digitalinvestigator.blogspot.com/2023/08/linux-dfir-analysis-attacker-kali-linux.html
