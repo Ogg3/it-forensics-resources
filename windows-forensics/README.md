@@ -20,3 +20,6 @@ Magnet Virtual Summit 2023 CTF - Windows Server
 Search Index Database Reporter
 - https://github.com/strozfriedberg/sidr
 - https://www.aon.com/cyber-solutions/aon_cyber_labs/windows-search-index-the-forensic-artifact-youve-been-searching-for/
+
+The Truth About USB Device Serial Numbers – (and the lies your tools tell)
+- https://www.computerpi.com/the-truth-about-usb-device-serial-numbers-and-the-lies-your-tools-tell/
