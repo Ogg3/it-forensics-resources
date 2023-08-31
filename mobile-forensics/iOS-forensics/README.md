@@ -30,3 +30,6 @@ What's brewing with IPAs - Working with IPA files for Forensic Examiners
 
 TOOL: Hexordia IO+S Toolkit v1.0.0
 - https://medium.com/@randomdent/tool-hexordia-io-s-toolkit-v1-0-0-a3c565b9c562
+
+Peeking at User Notification Events in iOS 15
+- https://dfir.pubpub.org/pub/6amsr72k/release/1
