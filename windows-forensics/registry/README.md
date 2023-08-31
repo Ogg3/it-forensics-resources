@@ -2,3 +2,5 @@
 
 USB or not USB... Connection Times
 - https://www.khyrenz.com/post/usb-or-not-usb-connection-times
+
+- https://github.com/Ahmed-AL-Maghraby/Windows-Registry-Analysis-Cheat-Sheet
