@@ -39,3 +39,6 @@ Gone Phishing: An Analysis of a Targeted User Attack
 
 Hope for the Best, Prepare for the Worst: How to prepare for cloud DFIR
 - https://www.sans.org/blog/hope-for-the-best-prepare-for-the-worst-how-to-prepare-for-cloud-dfir/
+
+Digging Into Russian Disinfo Infrastructure
+- https://nixintel.info/osint/digging-into-russian-disinfo-infrastructure/
