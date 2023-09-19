@@ -45,3 +45,9 @@ Digging Into Russian Disinfo Infrastructure
 
 Automated AWS Incident Response — The next episode
 - https://invictus-ir.medium.com/automated-aws-incident-response-the-next-episode-6d766d95d4f6
+
+Supercharged SecOps Series— Forensics Triage with Azure and KQL 🚀
+- https://mikecybersec.medium.com/supercharged-secops-series-forensics-triage-with-azure-and-kql-eff926b91f3c
+
+Open Cyber Threat Intelligence Platform
+- https://github.com/OpenCTI-Platform/opencti
