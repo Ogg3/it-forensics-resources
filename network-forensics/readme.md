@@ -17,3 +17,9 @@ TryHackMe Wireshark: Packet Operations — Task 3 Statistics | Protocol Details,
 
 TryHackMe Wireshark: Packet Operations — Task 6 Advanced Filtering & Task 7 Conclusion
 - https://medium.com/@haircutfish/tryhackme-wireshark-packet-operations-task-6-advanced-filtering-task-7-conclusion-433cf82227a1
+
+Packet Crafting - Tearing down a connection with TCP Reset
+- https://www.securitynik.com/2023/09/packet-crafting-tearing-down-connection.html
+
+Solving the CTF challenge - Network Forensics (packet and log analysis), USB Disk Forensics, Database Forensics, Stego
+- https://www.securitynik.com/2023/09/solving-ctf-challenge-network-forensics.html
