@@ -33,3 +33,6 @@ TOOL: Hexordia IO+S Toolkit v1.0.0
 
 Peeking at User Notification Events in iOS 15
 - https://dfir.pubpub.org/pub/6amsr72k/release/1
+
+iOS System Artifacts: Revealing Hidden Clues
+- https://belkasoft.com/ios-system-artifacts
