@@ -42,3 +42,6 @@ Hope for the Best, Prepare for the Worst: How to prepare for cloud DFIR
 
 Digging Into Russian Disinfo Infrastructure
 - https://nixintel.info/osint/digging-into-russian-disinfo-infrastructure/
+
+Automated AWS Incident Response — The next episode
+- https://invictus-ir.medium.com/automated-aws-incident-response-the-next-episode-6d766d95d4f6
