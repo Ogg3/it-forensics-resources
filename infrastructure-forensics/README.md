@@ -51,3 +51,9 @@ Supercharged SecOps Series— Forensics Triage with Azure and KQL 🚀
 
 Open Cyber Threat Intelligence Platform
 - https://github.com/OpenCTI-Platform/opencti
+
+FORENSIC ASPECTS OF MICROSOFT REMOTE ACCESS VPN
+- https://www.synacktiv.com/en/publications/forensic-aspects-of-microsoft-remote-access-vpn.html
+
+HTML Smuggling Leads to Domain Wide Ransomware
+- https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/
