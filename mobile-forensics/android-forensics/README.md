@@ -26,3 +26,6 @@ Forensic Analysis of Jami for Android, a Peer-to-Peer Messaging Application
 
 Android & AirTags (Part II)
 - https://thebinaryhick.blog/2023/08/13/android-airtags-part-ii/
+
+MFE 0 - ALEAPP - Image Manager Cache & Glide
+- https://www.youtube.com/watch?v=Rlp-h9V6FI0&ab_channel=AlexisBrignoni
