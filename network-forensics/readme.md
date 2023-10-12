@@ -23,3 +23,6 @@ Packet Crafting - Tearing down a connection with TCP Reset
 
 Solving the CTF challenge - Network Forensics (packet and log analysis), USB Disk Forensics, Database Forensics, Stego
 - https://www.securitynik.com/2023/09/solving-ctf-challenge-network-forensics.html
+
+ANALYSING PCAP FILES WITH WIRESHARK-PART 2
+- https://medium.com/@salim.y.salimov/analysing-pcap-files-with-wireshark-part-2-5185cf9837c1
