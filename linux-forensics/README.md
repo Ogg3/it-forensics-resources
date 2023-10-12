@@ -10,3 +10,6 @@ Linux DFIR Analysis: Attacker Kali Linux Case By Dr. Ali Hadi
 
 Linux Web Server Forensics: Dr. Ali Hadi's Web Server Case
 - https://digitalinvestigator.blogspot.com/2023/09/linux-web-server-forensics-dr-ali-hadis.html
+
+Linux Forensics In Depth
+- https://amr-git-dot.github.io/forensic%20investigation/Linux_Forensics/
