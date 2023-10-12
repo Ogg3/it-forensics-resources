@@ -36,3 +36,6 @@ Peeking at User Notification Events in iOS 15
 
 iOS System Artifacts: Revealing Hidden Clues
 - https://belkasoft.com/ios-system-artifacts
+
+iOS 17 Forensic Impacts
+- https://paraben.com/ios-17-forensic-impacts/
