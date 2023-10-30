@@ -60,3 +60,6 @@ HTML Smuggling Leads to Domain Wide Ransomware
 
 Investigating Suspicous Emails!
 - https://digitaldaniela.weebly.com/blog/investigating-suspicous-emails
+
+Investigating a Compromised Web Server
+- https://www.thedfirspot.com/post/investigating-a-compromised-web-server
