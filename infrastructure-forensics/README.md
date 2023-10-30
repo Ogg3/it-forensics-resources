@@ -63,3 +63,6 @@ Investigating Suspicous Emails!
 
 Investigating a Compromised Web Server
 - https://www.thedfirspot.com/post/investigating-a-compromised-web-server
+
+Phishing emails – a breakdown from an Incident Responder getting phished: Part 1.
+- https://npd4n6.com/2023/10/19/phishing-emails-a-breakdown-from-an-incident-responder-getting-phished-part-1/
