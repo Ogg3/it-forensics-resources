@@ -29,3 +29,6 @@ Android & AirTags (Part II)
 
 MFE 0 - ALEAPP - Image Manager Cache & Glide
 - https://www.youtube.com/watch?v=Rlp-h9V6FI0&ab_channel=AlexisBrignoni
+
+Finding Phones With Google Maps Part 1 (Android)
+- https://thebinaryhick.blog/2023/10/17/finding-phones-with-google-maps-part-1-android/
