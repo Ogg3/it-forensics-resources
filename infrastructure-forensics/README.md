@@ -57,3 +57,6 @@ FORENSIC ASPECTS OF MICROSOFT REMOTE ACCESS VPN
 
 HTML Smuggling Leads to Domain Wide Ransomware
 - https://thedfirreport.com/2023/08/28/html-smuggling-leads-to-domain-wide-ransomware/
+
+Investigating Suspicous Emails!
+- https://digitaldaniela.weebly.com/blog/investigating-suspicous-emails
