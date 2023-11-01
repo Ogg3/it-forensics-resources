@@ -40,6 +40,8 @@ DataSheets
 Digital Investigation & Cyber Security Solutions
 - https://www.dataexpert.eu/
 
+- https://bluecrewforensics.com/2023/10/30/connecting-discord-attachments-threads-sdwebimage-library/
+
 ## Blogs
 
 - https://thisweekin4n6.com/
