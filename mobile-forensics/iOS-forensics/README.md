@@ -39,3 +39,6 @@ iOS System Artifacts: Revealing Hidden Clues
 
 iOS 17 Forensic Impacts
 - https://paraben.com/ios-17-forensic-impacts/
+
+iOS Unified Logs - Typing and sending a message in WhatsApp
+- https://www.ios-unifiedlogs.com/post/ios-unified-logs-typing-and-sending-a-message-in-whatsapp
