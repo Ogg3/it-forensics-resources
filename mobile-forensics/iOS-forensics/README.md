@@ -42,3 +42,6 @@ iOS 17 Forensic Impacts
 
 iOS Unified Logs - Typing and sending a message in WhatsApp
 - https://www.ios-unifiedlogs.com/post/ios-unified-logs-typing-and-sending-a-message-in-whatsapp
+
+iOS 15 Image Forensics Analysis and Tools Comparison - Native Apps
+- https://blog.digital-forensics.it/2023/10/ios-15-image-forensics-analysis-and.html
