@@ -9,3 +9,6 @@ Filesystems used in mobilephones
 
 Boggle-bytes in a Basic Data Partition Entry
 - https://medium.com/@dfir_nz/boggle-bytes-in-a-basic-data-partition-entry-bb4d60ad8c79
+
+Bringing unallocated data back: the FAT12/16/32 case
+- https://dfir.ru/2023/11/01/bringing-unallocated-data-back-the-fat12-16-32-case/
