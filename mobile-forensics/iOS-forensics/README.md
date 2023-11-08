@@ -45,3 +45,6 @@ iOS Unified Logs - Typing and sending a message in WhatsApp
 
 iOS 15 Image Forensics Analysis and Tools Comparison - Native Apps
 - https://blog.digital-forensics.it/2023/10/ios-15-image-forensics-analysis-and.html
+
+Dissecting Official Reddit App, What Your Tools Don’t Tell You
+- https://aboutdfir.com/dissecting-official-reddit-app-what-your-tools-dont-tell-you/
