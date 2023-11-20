@@ -69,3 +69,6 @@ Phishing emails – a breakdown from an Incident Responder getting phished: Part
 
 Breach Investigation
 - https://amr-git-dot.github.io/forensic%20investigation/Breach_Investigation/
+
+Debug Case Study: Analysis of ProxyShell via IIS Worker Memory Dumps
+  - https://github.com/DebugPrivilege/InsightEngineering/blob/main/Debugging%20Case%20Studies/Debug%20Case%20Study:%20Analysis%20of%20ProxyShell%20via%20IIS%20Worker%20Memory%20Dumps/README.md
