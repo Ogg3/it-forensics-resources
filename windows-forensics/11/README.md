@@ -9,3 +9,6 @@ New Windows 11 Pro (22H2) Evidence of Execution Artifact!
 
 Magnet Virtual Summit 2023 CTF - Windows 11
 - https://www.stark4n6.com/2023/03/magnet-virtual-summit-2023-ctf-windows.html
+
+DIVING INTO THE NEW WINDOWS 11 PCA ARTIFACT
+- https://blog.sygnia.co/diving-into-the-new-windows-11-pca-artifact
