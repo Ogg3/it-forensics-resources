@@ -12,3 +12,6 @@ USB Forensics 101
 
 HARDWARE INVESTIGATION OF WIRELESS KEYLOGGERS
 - https://www.synacktiv.com/en/publications/hardware-investigation-of-wireless-keyloggers.html
+
+Binary Analysis with Firmware Analysis and Comparison Tool (FACT)
+- https://allabouttesting.org/binary-analysis-with-firmware-analysis-and-comparison-tool-fact/
