@@ -66,3 +66,6 @@ Investigating a Compromised Web Server
 
 Phishing emails – a breakdown from an Incident Responder getting phished: Part 1.
 - https://npd4n6.com/2023/10/19/phishing-emails-a-breakdown-from-an-incident-responder-getting-phished-part-1/
+
+Breach Investigation
+- https://amr-git-dot.github.io/forensic%20investigation/Breach_Investigation/
