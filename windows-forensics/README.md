@@ -23,3 +23,6 @@ Search Index Database Reporter
 
 The Truth About USB Device Serial Numbers – (and the lies your tools tell)
 - https://www.computerpi.com/the-truth-about-usb-device-serial-numbers-and-the-lies-your-tools-tell/
+
+Really Useful Logging and Event Repository (RULER) Project
+- https://ruler-project.github.io/ruler-project/
