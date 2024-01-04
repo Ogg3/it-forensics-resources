@@ -75,3 +75,6 @@ Debug Case Study: Analysis of ProxyShell via IIS Worker Memory Dumps
 
 Long story short, Persistence
 - https://www.fancy4n6.com/posts/2023-12-04-long-story-short/
+
+SQL Brute Force Leads to BlueSky Ransomware
+- https://thedfirreport.com/2023/12/04/sql-brute-force-leads-to-bluesky-ransomware/
