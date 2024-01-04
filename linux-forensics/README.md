@@ -13,3 +13,6 @@ Linux Web Server Forensics: Dr. Ali Hadi's Web Server Case
 
 Linux Forensics In Depth
 - https://amr-git-dot.github.io/forensic%20investigation/Linux_Forensics/
+
+Using the Unix-like Artifacts Collector and Cado Community Edition to Investigate a Compromised Linux System
+- https://www.cadosecurity.com/using-the-unix-like-artifacts-collector-and-cado-community-edition-to-investigate-a-compromised-linux-system/
