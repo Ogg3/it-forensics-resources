@@ -72,3 +72,6 @@ Breach Investigation
 
 Debug Case Study: Analysis of ProxyShell via IIS Worker Memory Dumps
   - https://github.com/DebugPrivilege/InsightEngineering/blob/main/Debugging%20Case%20Studies/Debug%20Case%20Study:%20Analysis%20of%20ProxyShell%20via%20IIS%20Worker%20Memory%20Dumps/README.md
+
+Long story short, Persistence
+- https://www.fancy4n6.com/posts/2023-12-04-long-story-short/
