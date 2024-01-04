@@ -48,3 +48,6 @@ iOS 15 Image Forensics Analysis and Tools Comparison - Native Apps
 
 Dissecting Official Reddit App, What Your Tools Don’t Tell You
 - https://aboutdfir.com/dissecting-official-reddit-app-what-your-tools-dont-tell-you/
+
+iOS Unified Logs - Making a call
+- https://www.ios-unifiedlogs.com/post/ios-unified-logs-making-a-call
