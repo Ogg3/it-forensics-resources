@@ -3,3 +3,6 @@ Memory Forensics R&D Illustrated: Detecting Hidden Windows Services
 
 Volatility3: Modern Windows Hibernation file analysis
 - https://www.forensicxlab.com/posts/hibernation/
+
+Volatility3 : Alternate Data Stream Scan
+- https://www.forensicxlab.com/posts/volads/
