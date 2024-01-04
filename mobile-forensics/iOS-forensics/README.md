@@ -51,3 +51,6 @@ Dissecting Official Reddit App, What Your Tools Don’t Tell You
 
 iOS Unified Logs - Making a call
 - https://www.ios-unifiedlogs.com/post/ios-unified-logs-making-a-call
+
+iOS 15 Image Forensics Analysis and Tools Comparison - Communication and Social Networking Apps
+- https://blog.digital-forensics.it/2023/11/ios-15-image-forensics-analysis-and.html
