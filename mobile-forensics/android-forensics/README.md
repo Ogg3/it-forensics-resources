@@ -32,3 +32,12 @@ MFE 0 - ALEAPP - Image Manager Cache & Glide
 
 Finding Phones With Google Maps Part 1 (Android)
 - https://thebinaryhick.blog/2023/10/17/finding-phones-with-google-maps-part-1-android/
+
+Analysis of Android settings during a forensic investigation
+- https://blog.digital-forensics.it/2024/01/analysis-of-android-settings-during.html
+
+Geo locating Android phones
+- https://android.googlesource.com/platform/frameworks/base/+/e098050/services/java/com/android/server/net/NetworkStatsService.java
+
+Android 14 analysis
+- https://blog.digital-forensics.it/2024/01/a-first-look-at-android-14-forensics.html?m=1
