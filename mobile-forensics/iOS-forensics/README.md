@@ -54,3 +54,6 @@ iOS Unified Logs - Making a call
 
 iOS 15 Image Forensics Analysis and Tools Comparison - Communication and Social Networking Apps
 - https://blog.digital-forensics.it/2023/11/ios-15-image-forensics-analysis-and.html
+
+PhotoStreamsData
+- https://discussions.apple.com/thread/6287199?sortBy=best
