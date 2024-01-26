@@ -26,3 +26,6 @@ The Truth About USB Device Serial Numbers – (and the lies your tools tell)
 
 Really Useful Logging and Event Repository (RULER) Project
 - https://ruler-project.github.io/ruler-project/
+
+A small util to brute-force prefetch hashes
+- https://github.com/harelsegev/prefetch-hash-cracker
