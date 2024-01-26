@@ -5,11 +5,28 @@ Vol3 plugin
 
 # Blogs
 
+## Logs
+
+Linux Logging Tutorial: What Are Linux Logs, How to View, Search and Centralize Them
+- https://sematext.com/blog/linux-logs/
+
+Analyzing Linux Logs
+- https://www.loggly.com/ultimate-guide/analyzing-linux-logs/
+
+What are Linux Logs? How to View Them, Most Important Directories & More
+- https://stackify.com/linux-logs/
+
+## Guides
+
 Practical Linux forensics
 - https://mreerie.com/2022/12/01/practical-linux-forensics/
 
+## Timestamps
+
 Timestamps
 - https://www.trustedsec.com/blog/linux-history-file-timestamps/
+
+## Other
 
 Linux DFIR Analysis: Attacker Kali Linux Case By Dr. Ali Hadi
 - https://digitalinvestigator.blogspot.com/2023/08/linux-dfir-analysis-attacker-kali-linux.html
