@@ -5,6 +5,10 @@
 
 # Ctf
 
+CyberDefenders HoneyBOT Challenge Write-up
+- https://digitella.weebly.com/blog/cyberdefenders-honeybot-challenge-write-up
+
+
 SysInternals Case Write Up
 - https://medium.com/@catie.s.walsh/sysinternals-case-write-up-569f0b3bf740
 
