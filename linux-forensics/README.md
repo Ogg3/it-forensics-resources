@@ -1,5 +1,3 @@
-# table of contents
-
 # Tools
 
 Vol3 plugin
