@@ -1,8 +1,20 @@
-My time with the judge
-- https://dsforensics.com/ds-forensics-inc-articles/my-time-with-the-judge
+# Table of Contents
+
+- [Ctf write ups](#ctf)
+- [Reports](#reports)
+
+# Ctf
 
 SysInternals Case Write Up
 - https://medium.com/@catie.s.walsh/sysinternals-case-write-up-569f0b3bf740
+
+Mason TCTF - Writeups
+- https://jrychang0621.blogspot.com/2023/03/mason-tctf-writeups.html
+
+# Reports
+
+My time with the judge
+- https://dsforensics.com/ds-forensics-inc-articles/my-time-with-the-judge
 
 Unwrapping Ursnifs Gifts
 - https://thedfirreport.com/2023/01/09/unwrapping-ursnifs-gifts/
@@ -18,9 +30,6 @@ PCAP analysis report - Nitroba University
 
 Collect, Exfiltrate, Sleep, Repeat
 - https://thedfirreport.com/2023/02/06/collect-exfiltrate-sleep-repeat/
-
-Mason TCTF - Writeups
-- https://jrychang0621.blogspot.com/2023/03/mason-tctf-writeups.html
 
 Malicious ISO File Leads to Domain Wide Ransomware
 - https://thedfirreport.com/2023/04/03/malicious-iso-file-leads-to-domain-wide-ransomware/
