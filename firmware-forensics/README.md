@@ -1,5 +1,13 @@
+# Table of contents
+- [Tools](#tools)
+- [blogs](#blogs)
+
+# Tools
+
 Toolkit to emulate firmware and analyse it for security vulnerabilities
 - https://github.com/attify/firmware-analysis-toolkit
+
+# Blogs
 
 Analyzing firmware image using Binwalk
 - https://blog.pentesteracademy.com/analyzing-firmware-image-using-binwalk-a6e8277310dc
