@@ -1,3 +1,14 @@
+# Table of contents
+- [Tools](#tools)
+- [Blogs](#blogs)
+
+# Tools
+
+Open Cyber Threat Intelligence Platform
+- https://github.com/OpenCTI-Platform/opencti
+
+# Blogs
+
 Retrieving Registry Values to Decrypt Files Protected with DDPE
 - https://mreerie.com/2023/01/26/retrieving-registry-values-to-decrypt-ddpe/
 
@@ -48,9 +59,6 @@ Automated AWS Incident Response — The next episode
 
 Supercharged SecOps Series— Forensics Triage with Azure and KQL 🚀
 - https://mikecybersec.medium.com/supercharged-secops-series-forensics-triage-with-azure-and-kql-eff926b91f3c
-
-Open Cyber Threat Intelligence Platform
-- https://github.com/OpenCTI-Platform/opencti
 
 FORENSIC ASPECTS OF MICROSOFT REMOTE ACCESS VPN
 - https://www.synacktiv.com/en/publications/forensic-aspects-of-microsoft-remote-access-vpn.html
