@@ -1,6 +1,6 @@
 # Table of Contents
-[Blogs](#blogs)
-[Tools](#tools)
+- [Blogs](#blogs)
+- [Tools](#tools)
 
 # Blogs
 Tor-forensics
