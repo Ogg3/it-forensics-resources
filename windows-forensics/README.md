@@ -1,15 +1,26 @@
+# Tools
+
 https://github.com/WithSecureLabs/chainsaw
 - https://labs.withsecure.com/tools/chainsaw
 - https://www.youtube.com/watch?v=YN_kffuC6a8&ab_channel=13Cubed
 
-Querys
-- https://github.com/abrignoni/DFIR-SQL-Query-Repo/tree/master/Windows
+DFIR resources
+- https://github.com/abdulshareef/DFIR-Resources
 
 Tool analysis
 - https://jpcertcc.github.io/ToolAnalysisResultSheet/
 
-DFIR resources
-- https://github.com/abdulshareef/DFIR-Resources
+A small util to brute-force prefetch hashes
+- https://github.com/harelsegev/prefetch-hash-cracker
+
+Really Useful Logging and Event Repository (RULER) Project
+- https://ruler-project.github.io/ruler-project/
+
+# Querys
+
+- https://github.com/abrignoni/DFIR-SQL-Query-Repo/tree/master/Windows
+
+# Analysis
 
 Examine the Cache, Cookies, and History Recorded in Web Browsers
 - https://belcyber.medium.com/examine-the-cache-cookies-and-history-recorded-in-web-browsers-670db69bbef7
@@ -24,8 +35,5 @@ Search Index Database Reporter
 The Truth About USB Device Serial Numbers – (and the lies your tools tell)
 - https://www.computerpi.com/the-truth-about-usb-device-serial-numbers-and-the-lies-your-tools-tell/
 
-Really Useful Logging and Event Repository (RULER) Project
-- https://ruler-project.github.io/ruler-project/
-
-A small util to brute-force prefetch hashes
-- https://github.com/harelsegev/prefetch-hash-cracker
+## Google drive
+- https://bransomforensics.com/podcast/hunting-for-file-deletion-artifacts-in-google-file-stream-data/
