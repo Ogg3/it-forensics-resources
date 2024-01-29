@@ -83,6 +83,6 @@ Long story short, Persistence
 SQL Brute Force Leads to BlueSky Ransomware
 - https://thedfirreport.com/2023/12/04/sql-brute-force-leads-to-bluesky-ransomware/
 
-## AD
+## Active Directoy
 
 - https://cybergladius.com/the-active-directory-access-control-list-explained/
