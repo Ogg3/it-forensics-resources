@@ -1,7 +1,3 @@
-# Table of contents
-- [Tools](#tools)
-- [Blogs](#blogs)
-
 # Tools
 
 Open Cyber Threat Intelligence Platform
@@ -86,3 +82,7 @@ Long story short, Persistence
 
 SQL Brute Force Leads to BlueSky Ransomware
 - https://thedfirreport.com/2023/12/04/sql-brute-force-leads-to-bluesky-ransomware/
+
+## AD
+
+- https://cybergladius.com/the-active-directory-access-control-list-explained/
