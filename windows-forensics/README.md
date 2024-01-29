@@ -37,3 +37,6 @@ The Truth About USB Device Serial Numbers – (and the lies your tools tell)
 
 ## Google drive
 - https://bransomforensics.com/podcast/hunting-for-file-deletion-artifacts-in-google-file-stream-data/
+
+## Google chrome
+- https://vikas-singh.notion.site/Browser-Cache-and-Interrupted-Downloads-Investigation-Strategies-e7d04c1f745143e38f7433113bb1eeb0
