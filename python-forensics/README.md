@@ -1,6 +1,9 @@
 # Gods
 - https://github.com/cclgroupltd
 
+## Xml
+- https://github.com/martinblech/xmltodict/blob/master/xmltodict.py
+
 # Zip
 
 How to parse a zipped file with multiprocessing?
