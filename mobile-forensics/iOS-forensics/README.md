@@ -115,6 +115,11 @@ Querying for Negative Evidence in the sms.db
 A Deep Dive into Apple Keychain Decryption
 - https://blog.passware.com/a-deep-dive-into-apple-keychain-decryption/
 
+## App cache
+
+App cache
+- https://www.trustedsec.com/blog/looting-ios-apps-cache-db/
+
 # Usefull lists
 
 List of Apple models
