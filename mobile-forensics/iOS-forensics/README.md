@@ -94,6 +94,11 @@ Upgrade From NULL—Detecting iOS Wipe Artifacts
 Querying for Negative Evidence in the sms.db
 - https://belkasoft.com/lagging-for-win
 
+## Keychain
+
+A Deep Dive into Apple Keychain Decryption
+- https://blog.passware.com/a-deep-dive-into-apple-keychain-decryption/
+
 # Usefull lists
 
 List of Apple models
