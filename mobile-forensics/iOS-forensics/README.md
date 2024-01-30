@@ -43,6 +43,17 @@ Dissecting Official Reddit App, What Your Tools Don’t Tell You
 iOS 15 Image Forensics Analysis and Tools Comparison - Communication and Social Networking Apps
 - https://blog.digital-forensics.it/2023/11/ios-15-image-forensics-analysis-and.html
 
+## Apple watch
+
+Apple Watch Forensics Reloaded
+- https://blog.elcomsoft.com/2020/11/apple-watch-forensics-reloaded/
+
+Enriching Investigations with Apple Watch Data Through the healthdb_secure.sqlite Database
+- https://dfir.pubpub.org/pub/xqvcn3hj/release/1
+
+Forensic Insights into Apple Watch Data Extraction
+- https://blog.elcomsoft.com/2023/11/forensic-insights-into-apple-watch-data-extraction/
+
 ## Biome
 
 Bringing it Back With Biome Data
