@@ -92,7 +92,10 @@ Meet the new Photos picker
 Upgrade From NULL—Detecting iOS Wipe Artifacts
 - https://cellebrite.com/en/upgrade-from-null-detecting-ios-wipe-artifacts/
 
-## SMS
+## Messeges
+
+Messages
+- https://paraben.com/fall-is-full-of-new-data-in-ios-16-messages/
 
 Querying for Negative Evidence in the sms.db
 - https://belkasoft.com/lagging-for-win
