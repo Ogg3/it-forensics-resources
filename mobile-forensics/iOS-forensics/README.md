@@ -3,6 +3,9 @@
 TOOL: Hexordia IO+S Toolkit v1.0.0
 - https://medium.com/@randomdent/tool-hexordia-io-s-toolkit-v1-0-0-a3c565b9c562
 
+iexplorer
+- https://macroplant.com/iexplorer
+
 ## Queries
 
 Querys
