@@ -1,7 +1,3 @@
-# Table of contents
-- [Tools](#tools)
-- [blogs](#blogs)
-
 # Tools
 
 Toolkit to emulate firmware and analyse it for security vulnerabilities
