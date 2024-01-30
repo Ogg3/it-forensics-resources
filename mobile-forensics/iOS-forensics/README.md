@@ -79,6 +79,9 @@ USING PHOTOS.SQLITE TO SHOW THE RELATIONSHIPS BETWEEN PHOTOS AND THE APPLICATION
 iOS – Tracking Bundle IDs for Containers, Shared Containers, and Plugins
 - https://www.magnetforensics.com/blog/ios-tracking-bundle-ids-for-containers-shared-containers-and-plugins/
 
+Meet the new Photos picker
+- https://developer.apple.com/videos/play/wwdc2020/10652/
+
 ## Wiping
 
 Upgrade From NULL—Detecting iOS Wipe Artifacts
