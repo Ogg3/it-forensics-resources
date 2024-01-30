@@ -1,5 +1,7 @@
-Onion adress
-- (?:https?://)?(?:www)?(\S*?\.onion)\b
+# Onion adress
+```
+(?:https?://)?(?:www)?(\S*?\.onion)\b
+```
 
-Github collection
+# Github collection
 - https://github.com/joshbrunty/DFIR-Regular-Expressions
