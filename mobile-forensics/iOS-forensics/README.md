@@ -6,10 +6,14 @@ TOOL: Hexordia IO+S Toolkit v1.0.0
 iexplorer
 - https://macroplant.com/iexplorer
 
+
 ## Queries
 
 Querys
 - https://github.com/abrignoni/DFIR-SQL-Query-Repo/tree/master/iOS
+
+Scooter
+- https://github.com/ScottKjr3347/iOS_Local_PL_Photos.sqlite_Queries
 
 # Blogs
 
