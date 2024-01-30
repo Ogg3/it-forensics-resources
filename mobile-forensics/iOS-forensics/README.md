@@ -29,8 +29,8 @@ Dissecting Official Reddit App, What Your Tools Don’t Tell You
 iOS 15 Image Forensics Analysis and Tools Comparison - Communication and Social Networking Apps
 - https://blog.digital-forensics.it/2023/11/ios-15-image-forensics-analysis-and.html
 
-
 ## Logs
+
 iOS System Artifacts: Revealing Hidden Clues
 - https://belkasoft.com/ios-system-artifacts
 
@@ -62,6 +62,11 @@ Analysing Safari browser history
 
 PhotoStreamsData
 - https://discussions.apple.com/thread/6287199?sortBy=best
+
+## Wiping
+
+Upgrade From NULL—Detecting iOS Wipe Artifacts
+- https://cellebrite.com/en/upgrade-from-null-detecting-ios-wipe-artifacts/
 
 
 # Usefull lists
