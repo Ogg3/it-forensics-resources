@@ -16,7 +16,8 @@ Multithreaded File Unzipping in Python
 
 ## Controll flow
 
-```def do_one():
+```
+def do_one():
   pass
 
 def do_two():
@@ -28,4 +29,5 @@ def do_default():
 actions = {1: do_one, 2: do_two}
 
 actions = actions.get(x, do_default)
-action(x)```
+action(x)
+```
