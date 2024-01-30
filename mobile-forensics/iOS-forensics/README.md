@@ -71,6 +71,10 @@ PhotoStreamsData
 Upgrade From NULL—Detecting iOS Wipe Artifacts
 - https://cellebrite.com/en/upgrade-from-null-detecting-ios-wipe-artifacts/
 
+## SMS
+
+Querying for Negative Evidence in the sms.db
+- https://belkasoft.com/lagging-for-win
 
 # Usefull lists
 
