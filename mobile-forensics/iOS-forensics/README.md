@@ -43,6 +43,9 @@ iOS Unified Logs - Typing and sending a message in WhatsApp
 iOS Unified Logs - Making a call
 - https://www.ios-unifiedlogs.com/post/ios-unified-logs-making-a-call
 
+forensics focus
+- https://www.forensicfocus.com/webinars/time-well-spent-precision-timing-monotonic-clocks-and-the-powerlogs-database-for-ios/
+
 ## Locations
 
 APOLLO
