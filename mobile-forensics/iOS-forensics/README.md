@@ -10,6 +10,11 @@ palera1n
 - https://leahycenterblog.champlain.edu/2023/03/29/having-fun-doing-mobile-forensics/
 - https://github.com/palera1n/palera1n
 
+macOS (& ios) Artifact Parsing Tool
+- https://github.com/ydkhatri/mac_apt
+
+- https://doubleblak.com/apps.php
+
 ## Queries
 
 Querys
