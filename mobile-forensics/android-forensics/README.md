@@ -49,6 +49,9 @@ Forensic Analysis of Jami for Android, a Peer-to-Peer Messaging Application
 MFE 0 - ALEAPP - Image Manager Cache & Glide
 - https://www.youtube.com/watch?v=Rlp-h9V6FI0&ab_channel=AlexisBrignoni
 
+What is com.android.gallery3d? A thorough examination
+- https://www.astucesmobiles.com/en/quest-ce-que-com-android-gallery3d-un-examen-approfondi/?amp=1
+
 ## Location
 
 Finding Phones With Google Maps Part 1 (Android)
