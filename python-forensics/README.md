@@ -17,6 +17,10 @@ Multithreaded File Unzipping in Python
 Having an SQLite database how to iterate thru all table items only knowing table name?
 - https://stackoverflow.com/questions/56717346/having-an-sqlite-database-how-to-iterate-thru-all-table-items-only-knowing-table
 
+# Json
+
+- https://github.com/abrignoni/JSON-to-HTML-and-XLS
+
 # Tips
 
 ## Controll flow
