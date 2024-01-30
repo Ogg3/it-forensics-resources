@@ -69,6 +69,12 @@ Analysing Safari browser history
 PhotoStreamsData
 - https://discussions.apple.com/thread/6287199?sortBy=best
 
+USING PHOTOS.SQLITE TO SHOW THE RELATIONSHIPS BETWEEN PHOTOS AND THE APPLICATION THEY WERE CREATED WITH? BY SCOTT KOENIG
+- https://smarterforensics.com/2020/08/does-photos-sqlite-have-relations-with-cameramessagesapp-by-scott-koenig/
+
+iOS – Tracking Bundle IDs for Containers, Shared Containers, and Plugins
+- https://www.magnetforensics.com/blog/ios-tracking-bundle-ids-for-containers-shared-containers-and-plugins/
+
 ## Wiping
 
 Upgrade From NULL—Detecting iOS Wipe Artifacts
