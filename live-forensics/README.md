@@ -14,7 +14,7 @@ The 2022 Volatility Plugin Contest results are in!
 
 keepass
 - https://www.forensicxlab.com/posts/keepass/
-- 
+
 # Acquisition
 
 AArch64 Memory Acquisition for Linux
