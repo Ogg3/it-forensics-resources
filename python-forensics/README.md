@@ -12,6 +12,11 @@ How to parse a zipped file with multiprocessing?
 Multithreaded File Unzipping in Python
 - https://superfastpython.com/multithreaded-unzip-files/#How_to_Unzip_Files_Concurrently
 
+# Sqlite
+
+Having an SQLite database how to iterate thru all table items only knowing table name?
+- https://stackoverflow.com/questions/56717346/having-an-sqlite-database-how-to-iterate-thru-all-table-items-only-knowing-table
+
 # Tips
 
 ## Controll flow
