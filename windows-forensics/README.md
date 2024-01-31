@@ -39,6 +39,12 @@ The Truth About USB Device Serial Numbers – (and the lies your tools tell)
 WINDOWS SHARED PC ACCOUNT NAMES. A TALE OF HOT C0FFEE AND GUEST USERS
 - https://paraflare.com/windows-shared-pc-account-names-a-tale-of-hot-c0ffee-and-guest-users/
 
+Forensics analysis of Teamviwer, anydesk, ATERA and SPLASHTOP
+- https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
+
+RDP flowchart
+- https://www.13cubed.com/downloads/rdp_flowchart.pdf
+
 ## Google drive
 - https://bransomforensics.com/podcast/hunting-for-file-deletion-artifacts-in-google-file-stream-data/
 
