@@ -1,8 +1,3 @@
-# Table of contents
-- [Usefull lists](#lists)
-- [Blogs](#blogs)
-
-
 # Lists
 
 List of filesystem headers
