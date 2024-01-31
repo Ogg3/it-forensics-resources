@@ -42,6 +42,23 @@ WINDOWS SHARED PC ACCOUNT NAMES. A TALE OF HOT C0FFEE AND GUEST USERS
 Forensics analysis of Teamviwer, anydesk, ATERA and SPLASHTOP
 - https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
 
+## Windows 11
+
+Timestamps
+- https://www.khyrenz.com/blog/windows-11-time-rules/
+
+Windows Events
+- https://aboutdfir.com/dfir-fyi-security4624-has-been-updated-in-windows-11-pro-22h2/#
+
+New Windows 11 Pro (22H2) Evidence of Execution Artifact!
+- https://aboutdfir.com/new-windows-11-pro-22h2-evidence-of-execution-artifact/
+
+Magnet Virtual Summit 2023 CTF - Windows 11
+- https://www.stark4n6.com/2023/03/magnet-virtual-summit-2023-ctf-windows.html
+
+DIVING INTO THE NEW WINDOWS 11 PCA ARTIFACT
+- https://blog.sygnia.co/diving-into-the-new-windows-11-pca-artifact
+
 ## MFT
 
 The $MFT flag that you have never considered before – OneDrive not synchronized files.
