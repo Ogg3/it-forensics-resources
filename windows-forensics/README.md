@@ -39,6 +39,11 @@ WINDOWS SHARED PC ACCOUNT NAMES. A TALE OF HOT C0FFEE AND GUEST USERS
 Forensics analysis of Teamviwer, anydesk, ATERA and SPLASHTOP
 - https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
 
+## Jumplists
+
+discovery into the operation of Jumplists on Windows 10.
+- https://thinkdfir.com/2023/05/17/cpy-jmp/
+
 ## Memory
 
 Memory Forensics R&D Illustrated: Detecting Hidden Windows Services
