@@ -1,8 +1,3 @@
-# Table of Contents
-
-- [Ctf write ups](#ctf)
-- [Reports](#reports)
-
 # Ctf
 
 CyberDefenders HoneyBOT Challenge Write-up
