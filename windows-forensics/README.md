@@ -23,6 +23,9 @@ Really Useful Logging and Event Repository (RULER) Project
 
 # Blogs
 
+Artifacts that you have never analyzed before… namely ETL files.
+- https://cyberdefnerd.com/2022/04/27/artifacts-that-you-have-never-analyzed-before-namely-etl-files/
+
 Examine the Cache, Cookies, and History Recorded in Web Browsers
 - https://belcyber.medium.com/examine-the-cache-cookies-and-history-recorded-in-web-browsers-670db69bbef7
 
