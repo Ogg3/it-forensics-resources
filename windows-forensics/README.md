@@ -36,6 +36,9 @@ Search Index Database Reporter
 The Truth About USB Device Serial Numbers – (and the lies your tools tell)
 - https://www.computerpi.com/the-truth-about-usb-device-serial-numbers-and-the-lies-your-tools-tell/
 
+WINDOWS SHARED PC ACCOUNT NAMES. A TALE OF HOT C0FFEE AND GUEST USERS
+- https://paraflare.com/windows-shared-pc-account-names-a-tale-of-hot-c0ffee-and-guest-users/
+
 ## Google drive
 - https://bransomforensics.com/podcast/hunting-for-file-deletion-artifacts-in-google-file-stream-data/
 
