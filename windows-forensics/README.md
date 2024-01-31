@@ -44,6 +44,8 @@ Forensics analysis of Teamviwer, anydesk, ATERA and SPLASHTOP
 RDP flowchart
 - https://www.13cubed.com/downloads/rdp_flowchart.pdf
 
+## Registry
+
 - https://scorpiosoftware.net/2022/04/15/mysteries-of-the-registry/
 
 ## USB
