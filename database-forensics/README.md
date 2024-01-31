@@ -1,6 +1,3 @@
-# Table of Contents
-- [Guides](#guides)
-
 # Guides
 
 SQLite DISTINCT with Sorting
