@@ -43,7 +43,7 @@ DataSheets
 Digital Investigation & Cyber Security Solutions
 - https://www.dataexpert.eu/
 
-- https://bluecrewforensics.com/2023/10/30/connecting-discord-attachments-threads-sdwebimage-library/
+- https://bluecrewforensics.com/
 
 - https://4n6appfinder.habben.net/
 
