@@ -39,6 +39,11 @@ WINDOWS SHARED PC ACCOUNT NAMES. A TALE OF HOT C0FFEE AND GUEST USERS
 Forensics analysis of Teamviwer, anydesk, ATERA and SPLASHTOP
 - https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
 
+## NTFS
+
+Exploring Windows Artifacts : $Security Artifact
+- https://u0041.co/blog/post/5
+
 ## Amcache
 
 - https://blog.nviso.eu/2022/03/07/amcache-contains-sha-1-hash-it-depends/
