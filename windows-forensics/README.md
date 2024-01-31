@@ -39,6 +39,11 @@ WINDOWS SHARED PC ACCOUNT NAMES. A TALE OF HOT C0FFEE AND GUEST USERS
 Forensics analysis of Teamviwer, anydesk, ATERA and SPLASHTOP
 - https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
 
+## MFT
+
+The $MFT flag that you have never considered before – OneDrive not synchronized files.
+- https://cyberdefnerd.com/2022/10/20/the-mft-flag-that-you-have-never-considered-before-onedrive-not-synchronized-files/
+
 ## NTFS
 
 Exploring Windows Artifacts : $Security Artifact
