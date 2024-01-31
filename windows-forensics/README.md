@@ -39,6 +39,15 @@ WINDOWS SHARED PC ACCOUNT NAMES. A TALE OF HOT C0FFEE AND GUEST USERS
 Forensics analysis of Teamviwer, anydesk, ATERA and SPLASHTOP
 - https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
 
+## Powershell
+
+- https://powerforensics.readthedocs.io/en/latest/
+
+### Powershell guides
+- https://cqureacademy.com/blog/forensics/powershell-forensics-session-microsoft-ignite
+- https://www.giac.org/paper/gsec/23549/hunting-gathering-powershell/121279
+- https://aditya-pratap9557.medium.com/windows-triaging-with-powershell-part-1-parsing-event-logs-a6748657d150
+
 ## RDP
 
 RDP flowchart
