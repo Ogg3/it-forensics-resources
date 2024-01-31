@@ -39,6 +39,13 @@ WINDOWS SHARED PC ACCOUNT NAMES. A TALE OF HOT C0FFEE AND GUEST USERS
 Forensics analysis of Teamviwer, anydesk, ATERA and SPLASHTOP
 - https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
 
+## Amcache
+
+- https://blog.nviso.eu/2022/03/07/amcache-contains-sha-1-hash-it-depends/
+
+Unleashing the Power of Shimcache with Chainsaw
+- https://labs.withsecure.com/tools/chainsaw-analyse-shimcache
+
 ## Defender
 
 Reverse, Reveal, Recover: Windows Defender Quarantine Forensics
