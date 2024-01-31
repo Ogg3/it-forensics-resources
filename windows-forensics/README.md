@@ -39,6 +39,17 @@ WINDOWS SHARED PC ACCOUNT NAMES. A TALE OF HOT C0FFEE AND GUEST USERS
 Forensics analysis of Teamviwer, anydesk, ATERA and SPLASHTOP
 - https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
 
+## Memory
+
+Memory Forensics R&D Illustrated: Detecting Hidden Windows Services
+- https://volatility-labs.blogspot.com/2023/03/memory-forensics-r-d-illustrated-detecting-hidden-windows-services.html
+
+Volatility3: Modern Windows Hibernation file analysis
+- https://www.forensicxlab.com/posts/hibernation/
+
+Volatility3 : Alternate Data Stream Scan
+- https://www.forensicxlab.com/posts/volads/
+
 ## Powershell
 
 - https://powerforensics.readthedocs.io/en/latest/
