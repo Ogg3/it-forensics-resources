@@ -21,7 +21,7 @@ Really Useful Logging and Event Repository (RULER) Project
 
 - https://github.com/abrignoni/DFIR-SQL-Query-Repo/tree/master/Windows
 
-# Analysis
+# Blogs
 
 Examine the Cache, Cookies, and History Recorded in Web Browsers
 - https://belcyber.medium.com/examine-the-cache-cookies-and-history-recorded-in-web-browsers-670db69bbef7
@@ -33,17 +33,27 @@ Search Index Database Reporter
 - https://github.com/strozfriedberg/sidr
 - https://www.aon.com/cyber-solutions/aon_cyber_labs/windows-search-index-the-forensic-artifact-youve-been-searching-for/
 
-The Truth About USB Device Serial Numbers – (and the lies your tools tell)
-- https://www.computerpi.com/the-truth-about-usb-device-serial-numbers-and-the-lies-your-tools-tell/
-
 WINDOWS SHARED PC ACCOUNT NAMES. A TALE OF HOT C0FFEE AND GUEST USERS
 - https://paraflare.com/windows-shared-pc-account-names-a-tale-of-hot-c0ffee-and-guest-users/
 
 Forensics analysis of Teamviwer, anydesk, ATERA and SPLASHTOP
 - https://www.synacktiv.com/en/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
 
+## RDP
+
 RDP flowchart
 - https://www.13cubed.com/downloads/rdp_flowchart.pdf
+
+- https://scorpiosoftware.net/2022/04/15/mysteries-of-the-registry/
+
+## USB
+
+The Truth About USB Device Serial Numbers – (and the lies your tools tell)
+- https://www.computerpi.com/the-truth-about-usb-device-serial-numbers-and-the-lies-your-tools-tell/
+
+USB or not USB... Connection Times
+- https://www.khyrenz.com/post/usb-or-not-usb-connection-times
+
 
 ## Google drive
 - https://bransomforensics.com/podcast/hunting-for-file-deletion-artifacts-in-google-file-stream-data/
