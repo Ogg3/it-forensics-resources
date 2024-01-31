@@ -25,6 +25,9 @@ Scooter
 
 # Blogs
 
+Connecting Discord Attachments to Threads & SDWebImage Library
+- https://bluecrewforensics.com/2023/10/30/connecting-discord-attachments-threads-sdwebimage-library/
+
 iOS 15 Image Forensics Analysis and Tools Comparison - Native Apps
 - https://blog.digital-forensics.it/2023/10/ios-15-image-forensics-analysis-and.html
 
