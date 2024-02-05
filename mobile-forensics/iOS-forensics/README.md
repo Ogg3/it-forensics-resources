@@ -46,6 +46,9 @@ Dissecting Official Reddit App, What Your Tools Don’t Tell You
 iOS 15 Image Forensics Analysis and Tools Comparison - Communication and Social Networking Apps
 - https://blog.digital-forensics.it/2023/11/ios-15-image-forensics-analysis-and.html
 
+Siri’s Memory Lane: Exploring the siriremembers Database
+- https://metadataperspective.com/2024/01/29/siris-memory-lane-exploring-the-siriremembers-database/
+
 ## Apple watch
 
 Apple Watch Forensics Reloaded
