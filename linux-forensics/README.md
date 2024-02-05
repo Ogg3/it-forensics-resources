@@ -3,6 +3,9 @@
 Vol3 plugin
 - http://www.forensicxlab.com/posts/inodes/
 
+MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux logs
+- https://github.com/securityjoes/MasterParser
+
 # Blogs
 
 ## Logs
