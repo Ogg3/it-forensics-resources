@@ -114,6 +114,9 @@ iOS – Tracking Bundle IDs for Containers, Shared Containers, and Plugins
 Meet the new Photos picker
 - https://developer.apple.com/videos/play/wwdc2020/10652/
 
+Device Set-up – Transferring data to new iPhone & Effects to Photos.sqlite
+- https://theforensicscooter.com/2024/02/04/device-setup-transferring-data-to-new-iphone-effects-to-photos-sqlite/
+
 ## Wiping
 
 Upgrade From NULL—Detecting iOS Wipe Artifacts
