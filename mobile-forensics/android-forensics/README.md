@@ -20,6 +20,9 @@ Android & AirTags (Part II)
 Analysis of Android settings during a forensic investigation
 - https://blog.digital-forensics.it/2024/01/analysis-of-android-settings-during.html
 
+Dissecting the Android WiFiConfigStore.xml for forensic analysis
+- https://blog.digital-forensics.it/2024/02/dissecting-android-wificonfigstorexml.html
+
 ## Malware
 - https://thebinaryhick.blog/2022/04/09/examining-a-malware-infected-android-phone-this-android-is-not-alright/
 
