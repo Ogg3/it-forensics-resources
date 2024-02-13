@@ -134,6 +134,9 @@ Volatility3 : Alternate Data Stream Scan
 RDP flowchart
 - https://www.13cubed.com/downloads/rdp_flowchart.pdf
 
+Remote Desktop Application vs MSTSC Forensics: The RDP Artifacts You Might Be Missing
+- https://www.zerofox.com/blog/remote-desktop-application-vs-mstsc-forensics-the-rdp-artifacts-you-might-be-missing/
+
 ## Registry
 
 - https://scorpiosoftware.net/2022/04/15/mysteries-of-the-registry/
