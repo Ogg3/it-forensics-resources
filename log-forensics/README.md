@@ -11,3 +11,6 @@ Log Parser 2.2
 
 Windows event logparser
 - https://gist.github.com/exp0se/1bae653b790cf5571d20
+
+Plaso
+- https://github.com/log2timeline/plaso
