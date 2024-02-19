@@ -83,6 +83,12 @@ Long story short, Persistence
 SQL Brute Force Leads to BlueSky Ransomware
 - https://thedfirreport.com/2023/12/04/sql-brute-force-leads-to-bluesky-ransomware/
 
+How to be IR Prepared in AWS
+- https://www.cadosecurity.com/how-to-be-ir-prepared-in-aws/
+
+How to be IR prepared in Azure
+- https://www.cadosecurity.com/how-to-be-ir-prepared-in-azure/
+
 ## Active Directoy
 
 - https://cybergladius.com/the-active-directory-access-control-list-explained/
