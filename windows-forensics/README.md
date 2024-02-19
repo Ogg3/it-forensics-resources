@@ -5,6 +5,9 @@ Chainsaw
 - https://labs.withsecure.com/tools/chainsaw
 - https://www.youtube.com/watch?v=YN_kffuC6a8&ab_channel=13Cubed
 
+hayabusa
+- https://github.com/Yamato-Security/hayabusa
+
 DFIR resources
 - https://github.com/abdulshareef/DFIR-Resources
 
