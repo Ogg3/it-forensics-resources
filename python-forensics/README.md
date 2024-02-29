@@ -23,6 +23,10 @@ Having an SQLite database how to iterate thru all table items only knowing table
 
 # Tips
 
+## Comparing sqlite tables
+
+- https://stackoverflow.com/questions/46867476/comparing-two-sqlite-databases-using-python
+
 ## Controll flow
 
 ```
