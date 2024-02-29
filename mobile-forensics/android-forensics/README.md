@@ -66,4 +66,7 @@ Finding Phones With Google Maps Part 1 (Android)
 Geo locating Android phones
 - https://android.googlesource.com/platform/frameworks/base/+/e098050/services/java/com/android/server/net/NetworkStatsService.java
 
+## RAM
 
+What's the purpose of swap and zRAM on Android?
+- https://mirfatif.github.io/IAnswers/swap_zram_android
