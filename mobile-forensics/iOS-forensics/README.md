@@ -79,6 +79,9 @@ iOS Unified Logs - Making a call
 forensics focus
 - https://www.forensicfocus.com/webinars/time-well-spent-precision-timing-monotonic-clocks-and-the-powerlogs-database-for-ios/
 
+iOS Unified Logs - WiFi and AirPlane Mode
+- https://www.ios-unifiedlogs.com/post/ios-unified-logs-wifi-and-airplane-mode
+
 ## Locations
 
 APOLLO
