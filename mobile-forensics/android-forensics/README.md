@@ -70,3 +70,5 @@ Geo locating Android phones
 
 What's the purpose of swap and zRAM on Android?
 - https://mirfatif.github.io/IAnswers/swap_zram_android
+
+- https://www.forensicfocus.com/forums/general/zram0/
