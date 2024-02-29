@@ -144,6 +144,9 @@ RDP flowchart
 Remote Desktop Application vs MSTSC Forensics: The RDP Artifacts You Might Be Missing
 - https://www.zerofox.com/blog/remote-desktop-application-vs-mstsc-forensics-the-rdp-artifacts-you-might-be-missing/
 
+Do You Even Bitmap Cache, Bro?
+- https://www.allthingsdfir.com/do-you-even-bitmap-cache-bro/
+
 ## Registry
 
 - https://scorpiosoftware.net/2022/04/15/mysteries-of-the-registry/
