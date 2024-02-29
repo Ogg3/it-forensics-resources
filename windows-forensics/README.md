@@ -1,5 +1,8 @@
 # Tools
 
+RdpCacheStitcher
+- https://github.com/BSI-Bund/RdpCacheStitcher
+
 Chainsaw
 - https://github.com/WithSecureLabs/chainsaw
 - https://labs.withsecure.com/tools/chainsaw
