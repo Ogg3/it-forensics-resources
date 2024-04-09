@@ -47,8 +47,16 @@ Wipeout! Part Deux – Determining How an Android Was Setup
 Forensic Analysis of Jami for Android, a Peer-to-Peer Messaging Application
 - https://www.dflim.com/blog/
 
+### Session
 Session On Android – An App Wrapped in Signal
 - https://thebinaryhick.blog/2022/07/14/session-on-android-an-app-wrapped-in-signal/
+
+### Telegram
+
+teleparser
+- https://blog.digital-forensics.it/2020/04/teleparser.html
+- https://www.sciencedirect.com/science/article/abs/pii/S1742287617301767
+- https://github.com/RealityNet/teleparser
 
 ## Photos
 
