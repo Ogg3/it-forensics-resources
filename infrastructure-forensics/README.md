@@ -89,6 +89,11 @@ How to be IR Prepared in AWS
 How to be IR prepared in Azure
 - https://www.cadosecurity.com/how-to-be-ir-prepared-in-azure/
 
+## Memory
+
+Memory Forensics of a Virtualbox VM
+- https://kollee.github.io/posts/memory-forensics-of-a-virtualbox-vm/
+
 ## Active Directoy
 
 - https://cybergladius.com/the-active-directory-access-control-list-explained/
