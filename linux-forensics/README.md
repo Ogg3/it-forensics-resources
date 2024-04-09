@@ -8,6 +8,11 @@ MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux lo
 
 # Blogs
 
+## Memory
+
+ Linux Memory Forensics - Memory Capture and Analysis 
+- https://www.youtube.com/watch?v=6Frec5cGzOg
+
 ## Logs
 
 Linux Logging Tutorial: What Are Linux Logs, How to View, Search and Centralize Them
