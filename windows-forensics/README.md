@@ -66,6 +66,9 @@ Magnet Virtual Summit 2023 CTF - Windows 11
 DIVING INTO THE NEW WINDOWS 11 PCA ARTIFACT
 - https://blog.sygnia.co/diving-into-the-new-windows-11-pca-artifact
 
+ EventTranscript.db Deep Dive - New Windows Forensic Artifact! 
+- https://www.youtube.com/watch?v=Lhw1KsXygBU
+
 ## MFT
 
 The $MFT flag that you have never considered before – OneDrive not synchronized files.
@@ -111,6 +114,12 @@ Deep Dive Into Windows Diagnostic Data & Telemetry (EventTranscript.db)
 - https://stuxnet999.github.io/2023/08/15/Deep-dive-into-windows-diagnostic-data.html
 - https://stuxnet999.github.io/2023/08/25/Deep-dive-into-windows-diagnostic-data-part-2.html
 
+DFIR Next Steps: What to do after you find a suspicious Windows Network Logon Session
+- https://www.cybertriage.com/blog/dfir-next-steps-what-to-do-after-you-find-a-suspicious-windows-network-logon-session/
+
+Microsoft Office Alerts ("OAlerts")
+- https://dsforensics.com/ds-forensics-inc-articles/windows-event-logs-tracking-file-edits-and-deletions
+
 ## Jumplists
 
 discovery into the operation of Jumplists on Windows 10.
@@ -126,6 +135,15 @@ Volatility3: Modern Windows Hibernation file analysis
 
 Volatility3 : Alternate Data Stream Scan
 - https://www.forensicxlab.com/posts/volads/
+
+Comae Memory and network analysis: Beginning an incident investigation
+- https://www.magnetforensics.com/blog/comae-memory-and-network-analysis-beginning-an-incident-investigation/
+
+**TOTAL RECALL 2024** - Memory Forensics Self-Paced Learning/Challenge/CTF 
+- https://www.securitynik.com/2024/03/total-recall-2024-memory-forensics-self.html
+
+ Hyper-V Memory Forensics - MemProcFS to the Rescue! 
+- https://www.youtube.com/watch?v=Wbk6ayF_zaQ
 
 ## Powershell
 
