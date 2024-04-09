@@ -74,6 +74,10 @@ Finding Phones With Google Maps Part 1 (Android)
 Geo locating Android phones
 - https://android.googlesource.com/platform/frameworks/base/+/e098050/services/java/com/android/server/net/NetworkStatsService.java
 
+How to Use Samsung Rubin Data in Your Mobile Device Forensic Tool – What You Need to Know
+- https://cellebrite.com/en/samsung-rubin-digital-forensics-value-what-you-need-to-know/
+- https://www.samsung.com/us/account/customization-service/
+
 ## RAM
 
 What's the purpose of swap and zRAM on Android?
