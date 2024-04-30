@@ -8,6 +8,9 @@ MasterParser is a powerful DFIR tool designed for analyzing and parsing Linux lo
 
 # Blogs
 
+TestDisk in Linux and recover deleted files
+- https://systemweakness.com/testdisk-in-linux-and-recover-deleted-files-61e6800ac592
+
 ## Memory
 
  Linux Memory Forensics - Memory Capture and Analysis 
