@@ -14,6 +14,8 @@ FCM Queued Messages on Android
 Android 14 analysis
 - https://blog.digital-forensics.it/2024/01/a-first-look-at-android-14-forensics.html?m=1
 
+DeRR.p. Investigating Power Events on Samsung Devices
+- https://thebinaryhick.blog/2024/04/07/__trashed/
 
 Analysis of Android settings during a forensic investigation
 - https://blog.digital-forensics.it/2024/01/analysis-of-android-settings-during.html
