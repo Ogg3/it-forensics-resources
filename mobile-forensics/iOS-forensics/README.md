@@ -156,3 +156,8 @@ Built in identifyers
 
 What's brewing with IPAs - Working with IPA files for Forensic Examiners
 - https://www.hexordia.com/blog-1-1/brewing-with-ipas
+
+# iOS backups
+
+All You Wanted To Know About iOS Backups
+- https://blog.elcomsoft.com/2024/04/all-you-wanted-to-know-about-ios-backups/
