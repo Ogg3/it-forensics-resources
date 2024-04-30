@@ -14,14 +14,20 @@ FCM Queued Messages on Android
 Android 14 analysis
 - https://blog.digital-forensics.it/2024/01/a-first-look-at-android-14-forensics.html?m=1
 
-Android & AirTags (Part II)
-- https://thebinaryhick.blog/2023/08/13/android-airtags-part-ii/
 
 Analysis of Android settings during a forensic investigation
 - https://blog.digital-forensics.it/2024/01/analysis-of-android-settings-during.html
 
 Dissecting the Android WiFiConfigStore.xml for forensic analysis
 - https://blog.digital-forensics.it/2024/02/dissecting-android-wificonfigstorexml.html
+
+## Bluetooth
+
+Android & AirTags (Part II)
+- https://thebinaryhick.blog/2023/08/13/android-airtags-part-ii/
+
+Road Trippin’ – Exploring Bluetooth Call Routes on Samsung Phones
+- https://thebinaryhick.blog/2024/04/16/road-trippin-exploring-bluetooth-call-routes-on-samsung-phones/
 
 ## Malware
 - https://thebinaryhick.blog/2022/04/09/examining-a-malware-infected-android-phone-this-android-is-not-alright/
