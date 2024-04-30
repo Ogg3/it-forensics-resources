@@ -112,6 +112,9 @@ Analysing Safari browser history
 
 ## Photos
 
+PhotoData – Photos.sqlite and Syndication Photo Library – Photos.sqlite Query Updates
+- https://theforensicscooter.com/2024/03/24/photodata-photos-sqlite-and-syndication-photo-library-photos-sqlite-query-updates/
+
 How Did That Photo Get On That iPhone
 - https://dfir.pubpub.org/pub/5d08cdxl/release/1
 
