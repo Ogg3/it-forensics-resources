@@ -5,6 +5,9 @@ Open Cyber Threat Intelligence Platform
 
 # Blogs
 
+The Bat! — Email Forensics
+- https://www.mailxaminer.com/blog/the-bat-mailbox-forensic-analysis/
+
 Yahoo Email Forensics – Best Tactics to Analyze Data
 - https://www.mailxaminer.com/blog/yahoo-mailbox-forensics/
 
