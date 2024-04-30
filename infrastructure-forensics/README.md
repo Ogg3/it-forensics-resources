@@ -5,6 +5,9 @@ Open Cyber Threat Intelligence Platform
 
 # Blogs
 
+Memory Forensics of a Virtualbox VM
+- https://kollee.github.io/posts/memory-forensics-of-a-virtualbox-vm/
+
 The Bat! — Email Forensics
 - https://www.mailxaminer.com/blog/the-bat-mailbox-forensic-analysis/
 
