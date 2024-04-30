@@ -25,6 +25,13 @@ Scooter
 
 # Blogs
 
+
+A gift from Apple a day puts deleted data in play
+- https://www.msab.com/blog/apple-deleted-data-itunes-backups/
+
+Hidden gems in Apple iOS digital forensics 
+- https://www.msab.com/blog/hidden-gems-in-apple-ios-digital-forensics/
+
 Connecting Discord Attachments to Threads & SDWebImage Library
 - https://bluecrewforensics.com/2023/10/30/connecting-discord-attachments-threads-sdwebimage-library/
 
