@@ -120,6 +120,9 @@ DFIR Next Steps: What to do after you find a suspicious Windows Network Logon Se
 Microsoft Office Alerts ("OAlerts")
 - https://dsforensics.com/ds-forensics-inc-articles/windows-event-logs-tracking-file-edits-and-deletions
 
+Decoding Windows event logs: A definitive guide for incident responders
+- https://www.hackthebox.com/blog/decoding-windows-event-logs-a-definitive-guide-for-incident-responders
+
 ## Jumplists
 
 discovery into the operation of Jumplists on Windows 10.
