@@ -5,6 +5,9 @@ Open Cyber Threat Intelligence Platform
 
 # Blogs
 
+Yahoo Email Forensics – Best Tactics to Analyze Data
+- https://www.mailxaminer.com/blog/yahoo-mailbox-forensics/
+
 Retrieving Registry Values to Decrypt Files Protected with DDPE
 - https://mreerie.com/2023/01/26/retrieving-registry-values-to-decrypt-ddpe/
 
